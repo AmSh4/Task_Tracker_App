@@ -1,10 +1,10 @@
-# 🗂️ Task Tracker App
+#  Task Tracker App
 
 A modern, minimal task-tracking application built using **React** and custom hooks. This project is designed to show your ability to build modular, well-structured applications with real-world usability.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add and track tasks
 - Toggle task completion
@@ -14,7 +14,7 @@ A modern, minimal task-tracking application built using **React** and custom hoo
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - React (JavaScript)
 - HTML/CSS
@@ -22,7 +22,7 @@ A modern, minimal task-tracking application built using **React** and custom hoo
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
     TaskTrackerApp/
         ├── public/
         │   └── index.html
@@ -40,7 +40,7 @@ A modern, minimal task-tracking application built using **React** and custom hoo
 
 ---
 
-## 💻 Getting Started
+##  Getting Started
 
 ```bash
 npm install
